@@ -32,6 +32,9 @@
 <a href="https://www.typescriptlang.org/pt/">
   <img src="https://skillicons.dev/icons?i=ts"/>
 </a>
+<a href="https://www.java.org/pt/">
+  <img src="https://skillicons.dev/icons?i=java"/>
+</a>
 <a href="https://pt-br.react.dev">
   <img src="https://skillicons.dev/icons?i=react"/>
 </a>
@@ -55,6 +58,9 @@
 </a>
 <a href="https://www.figma.com" >
   <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+<a href="https://www.notion.com" >
+  <img src="https://skillicons.dev/icons?i=notion"/>
 </a>
 </div>
 
